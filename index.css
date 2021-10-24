@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:orange;
+    text-align: center;
+    font-size: 28px;
+}
+
+i{
+    color:yellow;
+    text-align: right;
+    font-size: 22px;
+}
