@@ -8,8 +8,8 @@ h1{
     font-size: 28px;
 }
 
-i{
+subtitle{
     color:yellow;
-    margin: right;
+    text-align: center;
     font-size: 22px;
 }
